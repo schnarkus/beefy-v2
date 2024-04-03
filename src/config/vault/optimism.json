@@ -1,5 +1,28 @@
 [
   {
+    "id": "aura-op-frax-symphony",
+    "name": "Gyroscope Frax Symphony",
+    "type": "standard",
+    "token": "Gyroscope Frax Symphony",
+    "tokenAddress": "0xE906d4C4fC4c3Fe96560De86B4bf7eD89aF9A69a",
+    "tokenDecimals": 18,
+    "tokenProviderId": "beethovenx",
+    "earnedToken": "mooAuraOPGyroscopeFraxSymphony",
+    "earnedTokenAddress": "0x4578a58695C816B5606E3f2bA5D788b145440198",
+    "earnContractAddress": "0x4578a58695C816B5606E3f2bA5D788b145440198",
+    "oracle": "lps",
+    "oracleId": "aura-op-frax-symphony",
+    "status": "active",
+    "createdAt": 1711879766,
+    "platformId": "aura",
+    "assets": ["sFRAX", "FRAX"],
+    "risks": ["COMPLEXITY_LOW", "IL_NONE", "MCAP_LARGE", "AUDIT", "CONTRACTS_VERIFIED"],
+    "strategyTypeId": "lp",
+    "addLiquidityUrl": "https://op.beets.fi/pool/0xE906d4C4fC4c3Fe96560De86B4bf7eD89aF9A69a",
+    "removeLiquidityUrl": "https://op.beets.fi/pool/0xE906d4C4fC4c3Fe96560De86B4bf7eD89aF9A69a",
+    "network": "optimism"
+  },
+  {
     "id": "velodrome-v2-usdc-sonne",
     "name": "SONNE-USDC vLP V2",
     "type": "standard",
